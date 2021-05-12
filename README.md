@@ -25,6 +25,7 @@
         align="center" 
         alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=tainameneses&theme=radical&hide_border=true" title="Github Contributions" />
 </p>
+
 ## :computer: Skills
 * Programming Language: Python.
 * SQL: MySQL.
