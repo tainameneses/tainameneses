@@ -25,3 +25,14 @@
         align="center" 
         alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=tainameneses&theme=radical&hide_border=true" title="Github Contributions" />
 </p>
+## :computer: Skills
+* Programming Language: Python.
+* SQL: MySQL.
+* Hadoop Ecosystem: Apache Hive, Impala e Hue.
+* Cloud: AWS (S3, Glue, Cloudformation & Athena)
+* Operational System: Linux and Windows
+
+
+## :mag_right: Where to find me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tainameneses/)](https://www.linkedin.com/in/tainameneses/)
